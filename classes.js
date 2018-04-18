@@ -25,7 +25,7 @@ function two () {
 
   var two = document.getElementById('two')
 
-  one.classlist.add('green')
+  two.classlist.add('green')
 }
 // CREATE FUNCTION three HERE
 
