@@ -28,5 +28,8 @@ function two () {
   two.classList.add('green')
 }
 // CREATE FUNCTION three HERE
-
+function three () {
+  var three = document.getElementById('three')
+  three.classList.add('red')
+}
 // CREATE FUNCTION makeVisible HERE
